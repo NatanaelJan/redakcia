@@ -1,3 +1,7 @@
 Autor: Natanael Ján Knut
 Nazov: Mesto Presov
 Datum: 27.5.2020
+----
+Zaciname uvodom clanku.
+Mesto Presov zazilo velky sok.
+Koniec uvodu.
