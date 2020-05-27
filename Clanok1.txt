@@ -1,3 +1,7 @@
 Autor: Natanael Ján Knut
 Nazov: Kolaps nemocnice
 Datum: 28.5.2020
+----
+Uvod druhej verzie.
+V nemocnici nemaju dostatok ložok.
+Tu by som to ukoncil.
